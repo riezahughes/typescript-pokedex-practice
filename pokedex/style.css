@@ -1,0 +1,24 @@
+/* Add attributes to these classes. See what you can come up with :) */
+
+main {
+  /* page wrapper */
+}
+
+.card {
+  /* Card wrapper */
+}
+.card--id {
+  /* pokemon number */
+}
+
+.card--image {
+  /* pokemon image */
+}
+
+.card--name {
+  /* pokemon name */
+}
+
+.card--details {
+  /* pokemon types */
+}
